@@ -9,8 +9,8 @@ A single-file web application that converts images to text using Tesseract.js. S
 
 ## Installation and Usage
 To use this application, follow these steps:
-1. Clone this repository or download the `my_app.html` file.
-2. Open the `my_app.html` file in a web browser.
+1. Clone this repository or download the `Image_ 2_Text_Converter.html` file.
+2. Open the `Image_ 2_Text_Converter.html` file in a web browser.
 
 ## How It Works
 The application uses Tesseract.js to recognize text in the images uploaded by the user. Once the image is uploaded and the 'Convert to Text' button is clicked, Tesseract.js begins recognizing the text. After the text is recognized, it can be downloaded as a .txt file.
